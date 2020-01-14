@@ -8,7 +8,7 @@ Cook the perfect egg with this accurate timer.
 
 ## How it works!
 <p>The user can choose what kind of cooked egg they want.</p>
-<p>Whne the user tap on an option, the timer starts and based on the progress bar, the user have to cook the egg.</p>
+<p>When the user tap on an option, the timer starts.</p>
 <p>When the time is up. the user will hear a sound to show it's done.</p>
 
 ![Egg Timer App](https://user-images.githubusercontent.com/39883704/72312593-8eda9b00-3656-11ea-870a-3f53a87a9aa5.gif)
