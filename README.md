@@ -7,7 +7,7 @@ Cook the perfect egg with this accurate timer.
 
 
 ## How it works!
-<p>Cook the perfect egg with this accurate timer..</p>
+<p>Cook the perfect egg with this accurate timer.</p>
 <p>This app helps you to boil your eggs to perfection depending on how you prefer your eggs.</p>
 <p>At the end a sound will be played to show that the timer is done.</p>
 
