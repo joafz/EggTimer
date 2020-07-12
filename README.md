@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![Language](https://img.shields.io/badge/iOS-13.0-orange.svg)
 
-Cook the perfect egg with this accurate timer.
+Cook the perfect egg with this accurate timer..
 
 
 ## How it works!
